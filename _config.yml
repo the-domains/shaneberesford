@@ -1,0 +1,28 @@
+name: shaneberesford
+favicon: null
+layout_spectrum: 0.5564032273832709
+typography_spectrum: 0.07251529092900455
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5041650077328086
+  lightness: 0.8514944254420698
+  saturation: 0.43498955201357603
+  rhythmicContrast: 0.9651330313645303
+purpose: []
