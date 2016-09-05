@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[shaneberesford]]></title>
         <description><![CDATA[shaneberesford]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shaneberesford/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 03:57:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 03:57:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shaneberesford/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efc6fcc4-5d07-4cdb-b577-1e6a3eb05c39.jpg">]]></description>
+            <link>https://thegrid.ai/shaneberesford/a9c1676f-2473-4f6b-adb8-7d6032bb995d/index.html</link>
+            <guid isPermaLink="false">a9c1676f-2473-4f6b-adb8-7d6032bb995d</guid>
+            <pubDate>Fri, 02 Sep 2016 03:57:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40cfa2a9-37e1-4050-8323-8bf90a143a6e.jpg">]]></description>
-            <link>undefined7f085638-70b8-429c-823b-684e5851ba50/index.html</link>
+            <link>https://thegrid.ai/shaneberesford/7f085638-70b8-429c-823b-684e5851ba50/index.html</link>
             <guid isPermaLink="false">7f085638-70b8-429c-823b-684e5851ba50</guid>
             <pubDate>Fri, 02 Sep 2016 03:57:12 GMT</pubDate>
         </item>
